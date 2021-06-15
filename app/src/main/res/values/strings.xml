@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidPermissions</string>
+    <string name="btn_camera_and_gps_permission_request">Request Camera and GPS Permissions</string>
+</resources>
