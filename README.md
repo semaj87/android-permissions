@@ -2,11 +2,20 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This is a simple Kotlin project that is used to better understand how App permissions work within Android, using both the camera and GPS permissions.
 
-This is a simple Kotlin project that was used to better understand how App permissions work within Android.
+Permission i requested for the camera and the GPS functionality, by using a Button together with a click listener within a ConstraintLayout.
 
-Permission is requested by using a Button together with a click listener within a ConstraintLayout.
+App permissions help support user privacy by protecting access to the following:
+
+- **Restricted data**, such as system state and a user's contact information.
+- **Restricted actions**, such as connecting to a paired device and recording audio.
+
+This project looks at runtime permissions that require a request for permission to be made at runtime.
+
+The [Google Permissions Developer Docs](https://developer.android.com/guide/topics/permissions/overview) indicate the following workflow for app permissions:
+
+![Android permissions workflow](img/andorid-permissions-workflow.png)
 
 ## Built With
 
@@ -16,21 +25,12 @@ Permission is requested by using a Button together with a click listener within 
 * [Android 5.0: (API level 21)](https://developer.android.com/about/versions/lollipop)
 
 
-## Getting Started
-
-
 ## Prerequisites
 
 * [Kotlin: 1.5.10](https://kotlinlang.org/)
 * [Android Studio: 4.2](https://developer.android.com/studio)
 * [Android Lollipop: (5.0)](https://www.android.com/intl/en_uk/versions/lollipop-5-0/)
 * [Android 5.0: (API level 21)](https://developer.android.com/about/versions/lollipop)
-
-
-## Installation
-
-
-## Usage
 
 
 ## License
