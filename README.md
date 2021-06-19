@@ -17,6 +17,11 @@ The [Google Permissions Developer Docs](https://developer.android.com/guide/topi
 
 ![Android permissions workflow](img/andorid-permissions-workflow.png)
 
+## App Screenshots
+
+![Android Permissions App Screenshots](img/permissions-screenshots.png)
+
+
 ## Built With
 
 * [Kotlin: 1.5.10](https://kotlinlang.org/)

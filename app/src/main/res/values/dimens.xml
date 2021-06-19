@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="auth_header_image_height">200dp</dimen>
+    <dimen name="auth_logo_width_size">250dp</dimen>
+    <dimen name="auth_logo_height_size">200dp</dimen>
+    <dimen name="title_textSize">18sp</dimen>
+
+</resources>

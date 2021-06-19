@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val btnCameraPermission: Button = findViewById(R.id.btnCameraPermission)
+        val btnCameraPermission: Button = findViewById(R.id.btn_permissions)
 
         btnCameraPermission.setOnClickListener {
             // Checking the camera & GPS permission status against the PackageManager
